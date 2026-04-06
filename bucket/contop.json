@@ -4,7 +4,7 @@
   "homepage": "https://contop.app",
   "license": "MIT",
   "url": "https://github.com/slopedrop/contop/releases/download/desktop-v0.1.0-alpha.3/Contop-Desktop_0.1.0-alpha.3_x64-portable.zip",
-  "hash": "7d686ced9b957e90de67f3461509852727a49754c14b52fb8f11d42ab50632a1",
+  "hash": "0ebd7f0b0d49198abdba68ba04e6fdb54cae83769ca2040c34e70e576793e095",
   "bin": "contop-desktop.exe",
   "shortcuts": [
     ["contop-desktop.exe", "Contop Desktop"]
