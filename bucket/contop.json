@@ -1,11 +1,10 @@
 {
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "AI-powered remote desktop control from your phone",
   "homepage": "https://contop.app",
   "license": "MIT",
-  "url": "https://github.com/slopedrop/contop/releases/download/desktop-v0.1.0-alpha.1/Contop-Desktop_0.1.0-alpha.1_x64-portable.zip",
-  "hash": "e192b2e8ea4c57d35aa301dde48dfa4c3baaee22a906c460f0672775afac86b2",
-  "extract_dir": ".",
+  "url": "https://github.com/slopedrop/contop/releases/download/desktop-v0.1.0-alpha.2/Contop-Desktop_0.1.0-alpha.2_x64-portable.zip",
+  "hash": "91fac708906b2f710ac0f42bf0ccc8d9d8c6b5ff4359c545ed6927964c650caf",
   "bin": "contop-desktop.exe",
   "shortcuts": [
     ["contop-desktop.exe", "Contop Desktop"]
